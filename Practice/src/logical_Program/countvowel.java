@@ -7,6 +7,8 @@ public class countvowel {
 String  s="Automation";
 s=s.toLowerCase();
 int count=0;
+		
+		int abcd
 
 for(int i=0;i<s.length();i++)
 {
